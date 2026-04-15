@@ -1,6 +1,6 @@
 import { TestBed } from '@angular/core/testing';
 import { App } from './app';
-
+//pour faire le test unitaire - frame work jasmine pour tester les composants - on peut le supprimer - pour etre sur que notre composante fonctionne bien
 describe('App', () => {
   beforeEach(async () => {
     await TestBed.configureTestingModule({
