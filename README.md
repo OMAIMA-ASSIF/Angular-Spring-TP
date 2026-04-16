@@ -1,7 +1,7 @@
-# Rapport de TP : Application de Gestion de Produits (Fullstack Angular - Spring Boot)
+# Rapport de TP : Gestion de Produits ( Angular - Spring Boot)
 
 ## Présentation du Projet
-Ce projet consiste en la réalisation d'une application web ( MVP) pour la gestion de produits. L'architecture repose sur un backend **Spring Boot** sécurisé avec **Spring Security** et un frontend moderne en **Angular**.
+Ce TP consiste en la réalisation d'une application web ( MVP) pour la gestion de produits. L'architecture repose sur un backend **Spring Boot** sécurisé avec **Spring Security** et un frontend moderne en **Angular**.
 
 ## Architecture Technique
 
