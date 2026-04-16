@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Rapport de TP : Application de Gestion de Produits (Fullstack Angular - Spring Boot)
 
 ## Présentation du Projet
